@@ -1,9 +1,9 @@
 # Blogging Platform
-Name : Rushikesh Ajay Karkhane
-Domain : Web Devlopment
-Duration : September 2024 To October 2024
-Date : 24/09/2024
-Intern ID : CTO8DS7867
+- Name : Rushikesh Ajay Karkhane
+- Domain : Web Devlopment
+- Duration : September 2024 To October 2024
+- Date : 24/09/2024
+- Intern ID : CTO8DS7867
 ## Project Overview
 
 This project is a simple blogging site built using React. It features an admin panel where authorized users can log in, create and manage blog posts. The frontend is powered by React, with a secure backend for user authentication and blog management.
