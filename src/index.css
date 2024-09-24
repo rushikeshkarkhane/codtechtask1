@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body,#root,#root>div{
+  min-height: 100vh;
+  margin: 0;
+}
+#root{
+  @apply dark:bg-slate-800; 
+   @apply dark:text-white;
+   padding-top: 56px;
+}
+.genuimg{
+  width: 50px!important;
+  height: 50px!important;
+}
